@@ -1,0 +1,16 @@
+enable: true
+overwrite-commands:
+  list: true
+  transferserver: true
+  ping: true
+command-config:
+  ping:
+    permission: bungeetools.ping
+    noperm-message: "§cYou are not allowed to use this command!"
+    usage: ""
+    description: "Get your latency to the network!"
+  list:
+    permission: bungeetools.list
+    noperm-message: "§cYou are not allowed to use this command!"
+    usage: "§cUse /list <Server>"
+    description: "Get Server / Networks Players"

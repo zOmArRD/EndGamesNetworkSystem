@@ -1,0 +1,7 @@
+name: EndGamesSystem
+version: 1.0.0
+author: zOmArRD
+main: system\Main
+api: 3.0.0
+description: EndGames Network System
+depend: ["EndGamesDatabase"]
