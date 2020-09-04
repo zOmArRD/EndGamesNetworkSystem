@@ -15,7 +15,6 @@ declare(strict_types=1);
 namespace system;
 
 /** Pocketmine */
-
 use pocketmine\entity\Entity;
 use pocketmine\network\mcpe\protocol\ProtocolInfo;
 use pocketmine\plugin\PluginBase;
